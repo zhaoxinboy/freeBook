@@ -1,0 +1,15 @@
+platform :ios, '7.0'
+
+target "QingDianDemo" do
+pod 'SDWebImage'
+pod ‘RESideMenu’
+pod ‘Masonry’
+pod ‘MBProgressHUD’
+pod ‘MJExtension’
+pod ‘MJRefresh’
+pod ‘AFNetworking’
+pod 'TTTAttributedLabel'
+pod 'FMDB'
+pod 'UMengAnalytics'
+
+end
